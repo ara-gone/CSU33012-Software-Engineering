@@ -31,6 +31,3 @@ class LCA:
             return left_subtree
 
         return node
-
-#if __name__ == '__main__':
-#    aNode1 = TreeNode(5)
