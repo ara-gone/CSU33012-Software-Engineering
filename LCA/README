@@ -1,3 +1,5 @@
+UPDATE 29/10/21: Directed Acyclic Graph support
+
 The Lowest Common Ancestor unit tests are built using the Python unittest library.
 
 **** RUNNING THE UNIT TESTS ****
